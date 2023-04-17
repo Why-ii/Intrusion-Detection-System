@@ -65,3 +65,5 @@ if __name__ == '__main__':
             else:
                 line = line + "dga\n"
             f.write(line)
+
+#just for testing
